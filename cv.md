@@ -8,4 +8,4 @@ learning new things from everywhere etc.).
 5. Code examples: https://github.com/AlekseyPuchko
 6. Courses: school "TeachMeSkills": Frontend developer"
 7. University education: (Belarussian State University of Informatics and Radioelectronics, the faculty of computer systems and networks).
-8. I had practice in English thanks to the participation in international student exchange program Work and travel (3 month).
+8. I had practice in English thanks to the participation in international student exchange program "Work and travel" (3 month).
