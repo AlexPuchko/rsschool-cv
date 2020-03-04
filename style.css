@@ -1,0 +1,26 @@
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 18px; 
+    max-width: 1024px;
+    background-color: #7aff0033;
+    border: 1px solid #4d6d36;
+    border-radius: 6px;
+    opacity: 1;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3.main-title{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+    font-style: italic;
+}
+.header-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 14em;
+}
+h1{
+    text-align: center;
+}
