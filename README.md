@@ -1,2 +1,2 @@
-# rsschool-cv
-https://AlekseyPuchko.github.io/rsschool-cv/
+# rsschool-cv-html
+https://AlekseyPuchko.github.io/rsschool-cv-html/
